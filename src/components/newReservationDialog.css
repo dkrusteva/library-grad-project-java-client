@@ -1,0 +1,17 @@
+.newReservationDialog {
+    font-size: 19px;
+    color: lightgrey;
+    background-color: darkslategrey;
+    padding: 5px 20px;
+    font-family: Tahoma;
+}
+
+.newReservationDialog label {
+    font-size: 16px;
+    padding-left: 15px;
+    display: block;
+}
+
+.bookToReserve {
+    color:#ff6d6d;
+}

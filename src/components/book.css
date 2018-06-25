@@ -1,0 +1,29 @@
+.book{
+    flex-basis: calc(50% - 20px);
+    margin: 10px;
+    cursor: pointer;
+    font-family: Tahoma;
+    font-weight: bold;
+}
+
+.book:hover {
+    opacity: 0.8;
+}
+
+.book-picture {
+
+    height:200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.book {
+    margin-top: 10px;
+
+}
+
+.book.selected {
+    background-color: silver;
+
+
+}
